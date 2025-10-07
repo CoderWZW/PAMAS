@@ -1,0 +1,2420 @@
+[
+  {
+    "name": "L3-G0",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G0",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G3",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G3",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G17",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G17",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G4",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G4",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G16",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G16",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-16",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-16",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G5",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G5",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G15",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G15",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-17",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-17",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G6",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G6",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G14",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G14",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G7",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G7",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G13",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G13",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-19",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-19",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G1",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G1",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G15",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G15",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G5",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G5",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-27",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-27",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G2",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G2",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G14",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G14",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G6",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G6",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-26",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-26",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-22",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-22",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G3",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G3",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G13",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G13",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G7",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G7",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-25",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-25",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G4",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G4",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G12",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G12",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G8",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G8",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-24",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-24",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G5",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G5",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G11",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G11",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G9",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G9",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-23",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-23",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G6",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G6",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G10",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G10",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G10",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G10",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-22",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-22",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "L3-G7",
+    "type": "LeaderAgent",
+    "agent_id": "L3-G7",
+    "layer": 1,
+    "members": [
+      {
+        "name": "L2-G9",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G9",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G11",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G11",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-21",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-21",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G0",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G0",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-1",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-1",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-3",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-3",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-4",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-4",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-5",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-5",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-7",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-7",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "L2-G0",
+        "type": "LeaderAgent",
+        "agent_id": "L2-G0",
+        "layer": 2,
+        "members": [
+          {
+            "name": "L1-G2",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G2",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-30",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-30",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G3",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G3",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-29",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-29",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              }
+            ]
+          },
+          {
+            "name": "L1-G4",
+            "type": "LeaderAgent",
+            "agent_id": "L1-G4",
+            "layer": 3,
+            "members": [
+              {
+                "name": "BaseAgent-28",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-28",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-0",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-0",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-20",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-20",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-18",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-18",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-6",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-6",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-2",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-2",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-31",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-31",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-11",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-11",
+                "layer": 4
+              },
+              {
+                "name": "BaseAgent-15",
+                "type": "ImprovedBaseAgent",
+                "agent_id": "BaseAgent-15",
+                "layer": 4
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
