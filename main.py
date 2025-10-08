@@ -2154,9 +2154,8 @@ if __name__ == "__main__":
 
     print(f"Initialized {len(base_agents)} BaseAgents.")
 
-    # 组装 base_agents 已有
     global_base_agents = base_agents
-    group_counts = [20, 16, 8]  # 每层组数自定义
+    group_counts = [6, 5, 4]
     team_structure_records = []
     agents_hierarchy, leader_agents, team_structure_records = recursive_adaptive_structure_with_reuse(
         base_agents, train_users, train_labels, all_metrics, client,
@@ -2164,24 +2163,19 @@ if __name__ == "__main__":
         tree_records=team_structure_records, global_base_agents=global_base_agents
     )
 
-    # 1. 得到所有顶层LeaderAgent
     if isinstance(agents_hierarchy, list):
         top_leader_agents = agents_hierarchy
     else:
         top_leader_agents = [agents_hierarchy]
 
-    print("顶层LeaderAgent数量:", len(top_leader_agents))  # 应该等于 group_counts[-1]
-
-    # 结构树 team_structure_records 可以全程保存、可视化、或json序列化
     structure_tree_dicts = [export_team_structure(agent) for agent in top_leader_agents]
     with open('team_structure_tree.json', 'w', encoding='utf-8') as f:
         json.dump(structure_tree_dicts, f, ensure_ascii=False, indent=2)
         
-    # 2. 决策Agent聚合所有顶层Leader
     decision_agent = DecisionAgent(
         metrics=all_metrics,
         client=client,
-        subordinate_agents=top_leader_agents,  # 这里是所有顶层Leader
+        subordinate_agents=top_leader_agents,
         base_agents=base_agents,
         tokenizer=tokenizer,
         model=model,
