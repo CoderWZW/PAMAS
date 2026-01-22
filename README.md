@@ -39,5 +39,3 @@ We provide a complete runnable pipeline for Abnormal User Detection on the Amazo
 We include the necessary files to reproduce one complete run.
 
 If you want to train the system from scratch (instead of using the provided run-ready assets), you can retrain the model/pipeline accordingly.
-The dataset is **Amazon** (For Abnormal User Detection).
-
