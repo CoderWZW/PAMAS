@@ -7,7 +7,6 @@ import torch.optim as optim
 from openai import OpenAI
 import time
 import re
-from zhipuai import ZhipuAI
 import os
 from transformers import AutoTokenizer, AutoModel
 import pickle
@@ -19,7 +18,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 import json
 
-os.environ['CUDA_VISIBLE_DEVICES'] = "1"
+os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 random.seed(42)
 
 from scipy.stats import entropy
@@ -1007,7 +1006,7 @@ def safe_usage_get(usage, key, default=0):
 
 def agent_reasoning(prompt, question, client):
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="gpt-5-mini",
         messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": question}
@@ -1024,7 +1023,7 @@ def agent_reasoning(prompt, question, client):
 
 def agent_refine(prompt, question, client):
     response = client.chat.completions.create(
-        model="deepseek-chat",
+        model="gpt-5-mini",
         messages=[
             {"role": "system", "content": prompt},
             {"role": "user", "content": question}
@@ -1038,6 +1037,40 @@ def agent_refine(prompt, question, client):
     input_tokens = safe_usage_get(usage, "prompt_tokens", 0)
     output_tokens = safe_usage_get(usage, "completion_tokens", 0)
     return " ".join(content.split()), input_tokens, output_tokens
+
+# def agent_reasoning(prompt, question, client):
+#     response = client.chat.completions.create(
+#         model="deepseek-chat",
+#         messages=[
+#             {"role": "system", "content": prompt},
+#             {"role": "user", "content": question}
+#         ],
+#         max_tokens=5000,
+#         temperature=0.1,
+#         top_p=0.95
+#     )
+#     content = response.choices[0].message.content
+#     usage = getattr(response, 'usage', None)
+#     input_tokens = safe_usage_get(usage, "prompt_tokens", 0)
+#     output_tokens = safe_usage_get(usage, "completion_tokens", 0)
+#     return " ".join(content.split()), input_tokens, output_tokens
+
+# def agent_refine(prompt, question, client):
+#     response = client.chat.completions.create(
+#         model="deepseek-chat",
+#         messages=[
+#             {"role": "system", "content": prompt},
+#             {"role": "user", "content": question}
+#         ],
+#         max_tokens=5000,
+#         temperature=0.1,
+#         top_p=0.95
+#     )
+#     content = response.choices[0].message.content
+#     usage = getattr(response, 'usage', None)
+#     input_tokens = safe_usage_get(usage, "prompt_tokens", 0)
+#     output_tokens = safe_usage_get(usage, "completion_tokens", 0)
+#     return " ".join(content.split()), input_tokens, output_tokens
     
 
 # --------------------------- Data Loading ---------------------------
@@ -1872,11 +1905,11 @@ if __name__ == "__main__":
     start = time.time()
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     # device = torch.device('cpu')
-    client = OpenAI(api_key="Your Key", base_url="https://api.deepseek.com")
+    client = OpenAI(api_key="Your API Key")
 
     item_info = load_item_info("item_info.txt")
     simulated_data = load_simulated_dataset("review_encoded.txt", item_info)
-    train_users, train_labels = load_user_labels("train_half.txt")
+    train_users, train_labels = load_user_labels("train_all.txt")
     val_users, val_labels = load_user_labels("val_all.txt")
     test_users, test_labels = load_user_labels("test_all.txt")
 
@@ -2128,9 +2161,6 @@ if __name__ == "__main__":
         generate_experience_db_from_text(buffer_path, tokenizer, model, db_path)
         print("Experience DB built.")
 
-    # print("All epochs completed, generating experience DB...")
-    # generate_experience_db_from_text(buffer_path, tokenizer, model, db_path)
-    # print("Experience DB built.")
 
     ############ 构建Agent层级结构#############
     # 假设 num_base = 16
@@ -2187,7 +2217,7 @@ if __name__ == "__main__":
 
     # ========== 2. 批量推理与refine主流程 ==========
     BATCH_SIZE = 10
-    num_epoch = 3
+    num_epoch = 2
     Refine_user_num = 64
 
     last_epoch, last_batch, user_status, config_dict = load_training_state(

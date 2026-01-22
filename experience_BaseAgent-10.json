@@ -1,0 +1,3 @@
+{
+  "experience": "Malicious user detection relies on analyzing MLP scores alongside user behavior. Low MLP scores combined with consistent, detailed, and positive reviews typically signify genuine users, while high MLP scores and overly positive, uniform feedback suggest potential manipulation and malicious intent."
+}

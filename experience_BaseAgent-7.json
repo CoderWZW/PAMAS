@@ -1,0 +1,3 @@
+{
+  "experience": "Malicious user detection relies on identifying anomalies in user behavior metrics, such as perfect ratings, high emotional intensity, and uniform positivity, which suggest artificial consistency. Genuine users display balanced sentiments, detailed feedback, and low MLP scores, indicating a lower risk of malicious activity. Patterns of interaction, sentiment diversity, and review detail are key indicators in distinguishing between genuine and malicious behavior."
+}

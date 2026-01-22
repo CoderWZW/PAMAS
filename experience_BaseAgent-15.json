@@ -1,0 +1,3 @@
+{
+  "experience": "Malicious user detection relies on identifying patterns in user behavior, where genuine users display varied sentiments, moderate interaction metrics, and low MLP scores, while malicious users often show overly positive, uniform reviews, high emotional intensity, and extreme metrics."
+}

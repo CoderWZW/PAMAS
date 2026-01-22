@@ -1,0 +1,3 @@
+{
+  "experience": "Detection of malicious users is primarily based on the consistency and variance of ratings and reviews. Indicators such as perfect ratings, overly positive feedback, and high MLP scores suggest artificial behavior, while diverse and balanced opinions with genuine sentiment typically indicate trustworthy users."
+}

@@ -1,0 +1,3 @@
+{
+  "experience": "Malicious user detection relies on analyzing rating consistency, sentiment intensity, and MLP scores. Genuine users typically show low MLP scores with detailed, consistent reviews, while malicious users often present perfect rating consistency, exaggerated sentiment, and high MLP scores, indicating potential anomalies."
+}

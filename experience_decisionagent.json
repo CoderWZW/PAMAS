@@ -1,14 +1,14 @@
 {
   "experience": [
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience.",
-    "No valid epoch experience."
+    "Unanimous high-confidence leader consensus for fake, supported by inflammatory language and unsubstantiated claims, consistently overrides low MLP scores, while extremely high MLP scores with unanimous leader alignment also strongly indicate fake news, and extremely low MLP scores with unanimous leader votes for real reliably indicate legitimate content.",
+    "Unanimous high-confidence leader votes combined with inflammatory language and unsubstantiated claims consistently override conflicting MLP scores in fake news classification.",
+    "Unanimous high-confidence leader votes for fake, supported by inflammatory language and unsubstantiated claims, consistently override low MLP scores, while high MLP scores and leader consensus for fake strongly reinforce fake news classification.",
+    "Unanimous high-confidence leader votes for fake, supported by inflammatory language and unsubstantiated claims, consistently override low MLP scores, indicating that human consensus on content quality is a stronger fake news signal than the model's risk assessment in these cases.",
+    "Inflammatory and unsubstantiated content consistently overrides low MLP scores and unanimous leader votes for real, while high MLP scores and unanimous leader votes for fake align with such content, indicating that content risk is the primary decision factor.",
+    "Unsubstantiated and inflammatory content consistently overrides both low MLP scores and unanimous leader votes for real news, while high MLP scores and unanimous leader votes for fake typically align without requiring override.",
+    "When MLP score and leader votes align, trust the consensus; however, inflammatory or unsubstantiated content should override both metrics if present, as it is a strong indicator of fake news.",
+    "Inflammatory language, unsubstantiated claims, or deceptive framing in content should override conflicting MLP scores and leader votes to classify as fake news.",
+    "Inflammatory language and unsubstantiated claims consistently override both MLP scores and leader votes when present, while their absence allows model and consensus to guide accurate classification.",
+    "Inflammatory and unsubstantiated content consistently overrides both low MLP scores and unanimous leader votes for real news, indicating these qualitative factors are stronger fake news indicators than quantitative metrics."
   ]
 }
